@@ -8,12 +8,19 @@ let cards = [
     githubLink: 'https://github.com/royranger',
   },
   {
+    artName: 'This is Arttttttt',
+    pageLink: './Art/christine-aqui/caqui.html',
+    imageLink: '/Art/christine-aqui/caqui.png',
+    author: 'christine-aqui',
+    githubLink: 'https://github.com/christine-aqui',
+  },
+  {
     artName: 'Flower',
     pageLink: './Art/Neha/index.html',
     imageLink: './Art/Neha/flower.gif',
     author: 'Neha',
     githubLink: 'https://github.com/Neha045',
-  }
+}
 ];
 
 // +--------------------------------------------------------------------------------+
