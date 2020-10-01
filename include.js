@@ -6,6 +6,12 @@ let cards = [
     imageLink: './Art/joy/robot.png',
     author: 'joy',
     githubLink: 'https://github.com/royranger',
+  },{
+    artName: 'machine learning',
+    pageLink: './Art/vivek2509/machine_learning.html',
+    imageLink: './Art/vivek2509/machine_learning.png',
+    author: 'Vivek2509',
+    githubLink: 'https://github.com/Vivek2509',
   },
 ];
 
