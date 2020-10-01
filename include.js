@@ -7,6 +7,13 @@ let cards = [
     author: 'joy',
     githubLink: 'https://github.com/royranger',
   },
+  {
+    artName: 'ZTM Number One',
+    pageLink: './Art/hieutrinh/index.html',
+    imageLink: './Art/hieutrinh/zerotomasteryone.png',
+    author: 'hieutrinh',
+    githubLink: 'https://github.com/trinhminhieu',
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
