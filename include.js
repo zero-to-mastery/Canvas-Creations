@@ -20,6 +20,11 @@ let cards = [
     imageLink: '/Art/shamika-kumar/shamika-art.gif',
     author: 'shamika-kumar',
     githubLink: 'https://github.com/shamikakumar',
+    artName: 'Flower',
+    pageLink: './Art/Neha/index.html',
+    imageLink: '/Art/Neha/flower.png',
+    author: 'Neha',
+    githubLink: 'https://github.com/Neha045',
   },
 ];
 
