@@ -4,6 +4,9 @@ window.addEventListener('load', () => {
 
     canvas.height = 300
     canvas.width = 500
+    canvas.style.position = 'absolute';
+    canvas.style.top = "100px";
+    canvas.style.left = "300px";
 
     let color = "blue"
     let width = 2
@@ -25,10 +28,10 @@ window.addEventListener('load', () => {
         ctx.strokeStyle = color
         ctx.lineWidth = width
         ctx.lineCap = 'round'
-        ctx.lineTo(e.clientX, e.clientY)
+        ctx.lineTo(e.clientX-300, e.clientY-100)
         ctx.stroke()
         ctx.beginPath()
-        ctx.moveTo(e.clientX, e.clientY)
+        ctx.moveTo(e.clientX-300, e.clientY-100)
     }
 
     canvas.addEventListener('mousedown', startPos)
