@@ -7,6 +7,13 @@ let cards = [
     author: 'joy',
     githubLink: 'https://github.com/royranger',
   },
+  {
+    artName: 'Flower',
+    pageLink: './Art/Neha/index.html',
+    imageLink: './Art/Neha/flower.gif',
+    author: 'Neha',
+    githubLink: 'https://github.com/Neha045',
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
