@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/743608750635483297/760576141291028500/CANVAS.png" width="350" align="right"/>
 
-# Canvas Creations
+# Canvas Creations: An Amazing Project
 
 Your favourite annual creative challenge for Hacktoberfest is here! We will once again be showcasing the creative talents of our ZTM students, this time using the HTML `<canvas>` element.
 
