@@ -21,6 +21,13 @@ let cards = [
     author: 'Neha',
     githubLink: 'https://github.com/Neha045',
   },
+  {
+    artName: 'Diamond',
+    pageLink: './Art/ab510/diamond.html',
+    imageLink: '/Art/ab510/diamond.png',
+    author: 'ab510',
+    githubLink: 'https://github.com/ab510',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
