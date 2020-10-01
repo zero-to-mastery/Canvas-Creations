@@ -14,6 +14,13 @@ let cards = [
     author: 'christine-aqui',
     githubLink: 'https://github.com/christine-aqui',
   },
+  {
+    artName: 'Hacktober Bannner',
+    pageLink: './Art/antonio-trajanovski/index.html',
+    imageLink: './Art/antonio-trajanovski/banner.png',
+    author: 'Antonio Trajanovski',
+    githubLink: 'https://github.com/antoniotrajanovski',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
