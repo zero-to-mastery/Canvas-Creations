@@ -8,6 +8,12 @@ let cards = [
     githubLink: 'https://github.com/royranger'
   },
   {
+    artName: 'lollipop',
+    pageLink: './Art/ctq3103/lollipop.html',
+    imageLink: './Art/ctq3103/lollipop.png',
+    author: 'ctq3103',
+    githubLink: 'https://github.com/ctq3103'
+  },
     artName: 'This is Arttttttt',
     pageLink: './Art/christine-aqui/caqui.html',
     imageLink: '/Art/christine-aqui/caqui.png',
@@ -27,7 +33,7 @@ let cards = [
     imageLink: '/Art/Neha/flower.png',
     author: 'Neha',
     githubLink: 'https://github.com/Neha045'
-  }
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
