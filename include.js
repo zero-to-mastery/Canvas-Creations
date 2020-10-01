@@ -7,6 +7,13 @@ let cards = [
     author: 'joy',
     githubLink: 'https://github.com/royranger',
   },
+  {
+    artName: 'lollipop',
+    pageLink: './Art/ctq3103/lollipop.html',
+    imageLink: './Art/ctq3103/lollipop.png',
+    author: 'ctq3103',
+    githubLink: 'https://github.com/ctq3103',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
