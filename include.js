@@ -13,7 +13,14 @@ let cards = [
     imageLink: './Art/hieutrinh/zerotomasteryone.png',
     author: 'hieutrinh',
     githubLink: 'https://github.com/trinhminhieu',
-  }
+  },
+  {
+    artName: 'This is Arttttttt',
+    pageLink: './Art/christine-aqui/caqui.html',
+    imageLink: '/Art/christine-aqui/caqui.png',
+    author: 'christine-aqui',
+    githubLink: 'https://github.com/christine-aqui',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
