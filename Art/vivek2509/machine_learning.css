@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+  margin: 0;
 }
 
 .container {
@@ -11,7 +11,7 @@ body {
 }
 
 #mycanvas {
-  background:coral;
+  background: coral;
   border: 10px solid cyan;
   position: absolute;
   left: 50%;
