@@ -14,6 +14,7 @@ let cards = [
     author: 'ctq3103',
     githubLink: 'https://github.com/ctq3103'
   },
+  {
     artName: 'This is Arttttttt',
     pageLink: './Art/christine-aqui/caqui.html',
     imageLink: '/Art/christine-aqui/caqui.png',
@@ -41,6 +42,7 @@ let cards = [
     author: 'shamika-kumar',
     githubLink: 'https://github.com/shamikakumar'
   },
+  {
     artName: 'Flower',
     pageLink: './Art/Neha/index.html',
     imageLink: '/Art/Neha/flower.png',
@@ -60,6 +62,13 @@ let cards = [
     imageLink: './Art/ravi/German_Flag.jpg',
     author: 'Ravi',
     githubLink: 'https://github.com/rav291'
+  },
+  {
+    artName: 'Cool cursor',
+    pageLink: './Art/ashwin/Cool-cursor.html',
+    imageLink: './Art/ashwin/Cool-cursor.png',
+    author: 'ashwin',
+    githubLink: 'https://github.com/AswinBarath'
   }
 ];
 
