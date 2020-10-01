@@ -14,6 +14,13 @@ let cards = [
     author: 'christine-aqui',
     githubLink: 'https://github.com/christine-aqui',
   },
+  {
+    artName: '3 bouncing balls',
+    pageLink: './Art/shamika-kumar/index.html',
+    imageLink: '/Art/shamika-kumar/shamika-art.gif',
+    author: 'christine-aqui',
+    githubLink: 'https://github.com/shamikakumar',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
