@@ -90,6 +90,13 @@ let cards = [
     imageLink: './Art/velada/canvas.png',
     author: 'velada',
     githubLink: 'https://github.com/annima24'
+  },
+  {
+    artName: 'My Little Piece of Art',
+    pageLink: './Art/gincos/index.html',
+    imageLink: './Art/gincos/finished.png',
+    author: 'Gincos',
+    githubLink: 'https://github.com/gincos'
   }
 ];
 
