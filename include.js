@@ -5,22 +5,29 @@ let cards = [
     pageLink: './Art/joy/robot.html',
     imageLink: './Art/joy/robot.png',
     author: 'joy',
-    githubLink: 'https://github.com/royranger',
+    githubLink: 'https://github.com/royranger'
   },
   {
     artName: 'This is Arttttttt',
     pageLink: './Art/christine-aqui/caqui.html',
     imageLink: '/Art/christine-aqui/caqui.png',
     author: 'christine-aqui',
-    githubLink: 'https://github.com/christine-aqui',
+    githubLink: 'https://github.com/christine-aqui'
   },
   {
     artName: 'World of machine learning',
     pageLink: './Art/vivek2509/machine_learning.html',
     imageLink: '/Art/vivek2509/machine_learning.png',
     author: 'Vivek2509',
-    githubLink: 'https://github.com/Vivek2509',
+    githubLink: 'https://github.com/Vivek2509'
   },
+  {
+    artName: 'Flower',
+    pageLink: './Art/Neha/index.html',
+    imageLink: '/Art/Neha/flower.png',
+    author: 'Neha',
+    githubLink: 'https://github.com/Neha045'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
