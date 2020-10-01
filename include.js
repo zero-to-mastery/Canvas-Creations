@@ -21,6 +21,13 @@ let cards = [
     author: 'Antonio Trajanovski',
     githubLink: 'https://github.com/antoniotrajanovski',
   },
+  {
+    artName: 'Flower',
+    pageLink: './Art/Neha/index.html',
+    imageLink: '/Art/Neha/flower.png',
+    author: 'Neha',
+    githubLink: 'https://github.com/Neha045',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
