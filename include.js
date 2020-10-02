@@ -146,6 +146,13 @@ let cards = [
 		imageLink: './Art/Jamiu/color.PNG',
 		author: 'Jamiu',
 		githubLink: 'https://github.com/JamiuJimoh'
+	},
+  {
+		artName: 'Indian Flag',
+		pageLink: './Art/Bmg/index.html',
+		imageLink: './Art/Bmg/India.png',
+		author: 'Bhavansh',
+		githubLink: 'https://github.com/bhavansh'
 	}
 ];
 
