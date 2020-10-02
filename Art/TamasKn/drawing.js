@@ -5,7 +5,8 @@ window.addEventListener('load', () => {
     const canvasHeight = 300
 
     let offsetX = getOffsetX()
-    const offsetY = 200
+    // Margin-top of the canvas + height of H1
+    const offsetY = 187
 
     window.addEventListener('resize', () => {
         offsetX = getOffsetX()
@@ -18,8 +19,8 @@ window.addEventListener('load', () => {
     canvas.height = canvasHeight
     canvas.width = canvasWidth
 
-    let color = "blue"
-    let width = 2
+    let color = "black"
+    let width = 5
     let drawing = false
 
     const startPos = (e) => {

@@ -7,6 +7,13 @@ let cards = [
     author: 'joy',
     githubLink: 'https://github.com/royranger',
   },
+    {
+        artName: 'Draw facial hair for Elmer Fudd',
+        pageLink: './Art/TamasKn/drawing.html',
+        imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
+        author: 'TamasKn',
+        githubLink: 'https://github.com/TamasKn',
+    },
 ];
 
 // +--------------------------------------------------------------------------------+

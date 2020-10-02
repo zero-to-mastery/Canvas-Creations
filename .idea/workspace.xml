@@ -25,10 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a16f0dd8-2428-46a1-9e9a-a20e6e3c5f53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Art/TamasKn/drawing.css" beforeDir="false" afterPath="$PROJECT_DIR$/Art/TamasKn/drawing.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Art/TamasKn/drawing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Art/TamasKn/drawing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Art/TamasKn/drawing.js" beforeDir="false" afterPath="$PROJECT_DIR$/Art/TamasKn/drawing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include.js" beforeDir="false" afterPath="$PROJECT_DIR$/include.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601554959859</updated>
       <workItem from="1601554961422" duration="4203000" />
-      <workItem from="1601632423145" duration="3799000" />
+      <workItem from="1601632423145" duration="6067000" />
     </task>
     <servers />
   </component>
@@ -103,6 +105,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2676" y="26" width="398" height="974" key="#HTML" timestamp="1601636622686">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2676" y="26" width="398" height="974" key="#HTML/1920.0.1920.1080/0.0.1920.1033@1920.0.1920.1080" timestamp="1601636622686" />
     <state x="2605" y="227" width="539" height="572" key="#JavaScript" timestamp="1601556640354">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
