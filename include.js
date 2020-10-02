@@ -167,6 +167,13 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Bubble ZTM',
+    pageLink: './Art/ctq3103/bubble-ztm.html',
+    imageLink: './Art/ctq3103/bubble-ztm.gif',
+    author: 'ctq3103',
+    githubLink: 'https://github.com/ctq3103'
   }
 ];
 
