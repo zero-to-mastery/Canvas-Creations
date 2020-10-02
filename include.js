@@ -167,6 +167,13 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/varunv/canva.html',
+    imageLink: './Art/varunv/canva.gif',
+    author: 'Varun V',
+    githubLink: 'https://github.com/VarunV991'
   }
 ];
 
