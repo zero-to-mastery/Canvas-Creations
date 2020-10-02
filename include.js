@@ -120,6 +120,13 @@ let cards = [
     githubLink: 'https://github.com/gincos'
   },
   {
+    artName: 'ZTM Hacktoberfest',
+    pageLink: './Art/sherine/index.html',
+    imageLink: './Art/sherine/ztm.png',
+    author: 'Sherine',
+    githubLink: 'https://github.com/sherinechally'
+  },
+  {
     artName: 'Hactoberfest2020',
     pageLink: './Art/krittiya-clark/index.html',
     imageLink: './Art/krittiya-clark/Hactoberfest2020.png',
@@ -148,11 +155,39 @@ let cards = [
     githubLink: 'https://github.com/gh0sttttt'
   },
   {
-		artName: 'Color Wall Builder',
-		pageLink: './Art/Jamiu/index.html',
-		imageLink: './Art/Jamiu/color.PNG',
-		author: 'Jamiu',
-		githubLink: 'https://github.com/JamiuJimoh'
+    artName: 'Color Wall Builder',
+    pageLink: './Art/Jamiu/index.html',
+    imageLink: './Art/Jamiu/color.PNG',
+    author: 'Jamiu',
+    githubLink: 'https://github.com/JamiuJimoh'
+  },
+  {
+    artName: 'Particles ZTM',
+    pageLink: './Art/ctq3103/particles-ztm.html',
+    imageLink: './Art/ctq3103/particles-ztm.gif',
+    author: 'ctq3103',
+    githubLink: 'https://github.com/ctq3103'
+  },
+  {
+    artName: 'Indian Flag',
+    pageLink: './Art/Bmg/index.html',
+    imageLink: './Art/Bmg/India.png',
+    author: 'Bhavansh',
+    githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/varunv/canva.html',
+    imageLink: './Art/varunv/canva.gif',
+    author: 'Varun V',
+    githubLink: 'https://github.com/VarunV991'
+  },
+  {
+    artName: 'Russian Flag',
+    pageLink: './Art/AdityaSaroj/index.html',
+    imageLink: './Art/AdityaSaroj/russia.png',
+    author: 'Aditya Kumar Saroj',
+    githubLink: 'https://github.com/AdityaSaroj'
   },
   {
     artName: 'Bauhaus Geometric',
