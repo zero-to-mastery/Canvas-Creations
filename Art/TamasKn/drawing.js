@@ -5,8 +5,8 @@ window.addEventListener('load', () => {
     const canvasHeight = 300
 
     let offsetX = getOffsetX()
-    // Margin-top of the canvas + height of H1
-    const offsetY = 187
+    // Margin-top of the canvas + height of Header
+    const offsetY = 198 + 50
 
     window.addEventListener('resize', () => {
         offsetX = getOffsetX()
@@ -18,6 +18,24 @@ window.addEventListener('load', () => {
 
     canvas.height = canvasHeight
     canvas.width = canvasWidth
+
+    // Image upload
+
+    let img = document.querySelector('img')
+
+    if(img.attributes[0].nodeValue === '#') {
+        img.style.display = 'none'
+    }
+
+    document.querySelector('input[type="file"]').addEventListener('change', function() {
+        if (this.files && this.files[0]) {
+            img.style.display = 'initial'
+            img.src = URL.createObjectURL(this.files[0])
+        }
+    })
+
+
+    // Drawing functionality
 
     let color = "black"
     let width = 5
@@ -48,4 +66,11 @@ window.addEventListener('load', () => {
     canvas.addEventListener('mousedown', startPos)
     canvas.addEventListener('mouseup', finishPos)
     canvas.addEventListener('mousemove', draw)
+
+    // Reset button
+
+    const resetBtn = document.getElementById('reset')
+    resetBtn.addEventListener('click', () => {
+        ctx.clearRect(0, 0, canvas.width, canvas.height)
+    })
 })
