@@ -281,33 +281,40 @@ let cards = [
 		author: 'Harshil',
 		githubLink: 'https://github.com/funpractice'
 	},
-  {
-    artName: 'Romanian Flag',
-    pageLink: './Art/TigerAsH94/index.html',
-    imageLink: './Art/TigerAsH94/flagRo.png',
-    author: 'TigerAsH94',
-    githubLink: 'https://github.com/TigerAsH94'
-  },
-  {
-    artName: 'Draw facial hair on your image',
-    pageLink: './Art/TamasKn/drawing.html',
-    imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
-    author: 'TamasKn',
-    githubLink: 'https://github.com/TamasKn'
-  },
-  {
-    artName: 'Code your life with efforts',
-    pageLink: './Art/Ashutosh/index.html',
-    imageLink: './Art/Ashutosh/code.jpg',
-    author: 'Ashutosh',
-    githubLink: 'https://github.com/Ashutosh00710'
-  },
-  {
+	{
+		artName: 'Romanian Flag',
+		pageLink: './Art/TigerAsH94/index.html',
+		imageLink: './Art/TigerAsH94/flagRo.png',
+		author: 'TigerAsH94',
+		githubLink: 'https://github.com/TigerAsH94'
+	},
+	{
+		artName: 'Draw facial hair on your image',
+		pageLink: './Art/TamasKn/drawing.html',
+		imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
+		author: 'TamasKn',
+		githubLink: 'https://github.com/TamasKn'
+	},
+	{
+		artName: 'Code your life with efforts',
+		pageLink: './Art/Ashutosh/index.html',
+		imageLink: './Art/Ashutosh/code.jpg',
+		author: 'Ashutosh',
+		githubLink: 'https://github.com/Ashutosh00710'
+	},
+	{
 		artName: 'Multi-coloured liquid Canvas drawing',
 		pageLink: './Art/sanjaysanjel/index.html',
 		imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
 		author: 'Sanjay Sanjel',
 		githubLink: 'https://github.com/sanjaysanjel019/'
+	},
+	{
+		artName: 'HackOctber drawing',
+		pageLink: './Art/shubhankar/index.html',
+		imageLink: './Art/shubhankar/Capture.PNG',
+		author: 'Shubhankar Dwivedi',
+		githubLink: 'https://github.com/shubhdwiv12/'
 	}
 ];
 
@@ -323,14 +330,14 @@ let contents = [];
 Shuffle(cards).forEach((c) => {
 	contents.push([
 		`<li class="card">` +
-			`<a href='${c.pageLink}' target="_blank">` +
-			`<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
-			`</a>` +
-			`<div class="flex-content">` +
-			`<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
-			`<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
-			`</div>` +
-			`</li>`
+		`<a href='${c.pageLink}' target="_blank">` +
+		`<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
+		`</a>` +
+		`<div class="flex-content">` +
+		`<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
+		`<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
+		`</div>` +
+		`</li>`
 	]);
 });
 
