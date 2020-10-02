@@ -169,7 +169,7 @@ let cards = [
     githubLink: 'https://github.com/bhavansh'
   },
     {
-        artName: 'Draw facial hair for Elmer Fudd',
+        artName: 'Draw facial hair on your image',
         pageLink: './Art/TamasKn/drawing.html',
         imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
         author: 'TamasKn',
