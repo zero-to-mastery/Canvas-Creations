@@ -26,10 +26,6 @@ canvas {
 
 .image-wrapper {
     margin-top: 50px;
-    /*background-image: url("./assets/elmer.jpg");*/
-    /*background-size: contain;*/
-    /*background-position-x: center;*/
-    /*background-repeat: no-repeat;*/
     height: 300px;
     width: 500px;
 }
@@ -38,4 +34,18 @@ img {
     height: 300px;
     width: 500px;
     object-fit: contain;
+}
+
+.color-picker {
+    display: flex;
+    justify-content: center;
+}
+
+.round {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    cursor: pointer;
 }

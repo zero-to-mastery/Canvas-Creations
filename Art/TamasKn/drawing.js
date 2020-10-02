@@ -6,7 +6,7 @@ window.addEventListener('load', () => {
 
     let offsetX = getOffsetX()
     // Margin-top of the canvas + height of Header
-    const offsetY = 198 + 50
+    const offsetY = 198 + 50 + 25
 
     window.addEventListener('resize', () => {
         offsetX = getOffsetX()
@@ -37,7 +37,7 @@ window.addEventListener('load', () => {
 
     // Drawing functionality
 
-    let color = "black"
+    let color = "#7E4327"
     let width = 5
     let drawing = false
 
@@ -73,4 +73,16 @@ window.addEventListener('load', () => {
     resetBtn.addEventListener('click', () => {
         ctx.clearRect(0, 0, canvas.width, canvas.height)
     })
+
+    // Brush color picker
+
+    document.querySelectorAll('.round').forEach(item => {
+        item.addEventListener('click', (e) => {
+            color = e.target.style.backgroundColor
+        })
+    })
+
+
+
+
 })
