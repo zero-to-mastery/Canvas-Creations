@@ -106,6 +106,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'Our Indian Flag',
+    pageLink: './Art/aman/index.html',
+    imageLink: './Art/aman/screenshot.jpg',
+    author: 'aman',
+    githubLink: 'https://github.com/aman339'
+  },
+  {
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
     imageLink: './Art/michaeljoy255/bubbles.png',
@@ -118,6 +125,13 @@ let cards = [
     imageLink: './Art/gincos/finished.png',
     author: 'Gincos',
     githubLink: 'https://github.com/gincos'
+  },
+  {
+    artName: 'ZTM Hacktoberfest',
+    pageLink: './Art/sherine/index.html',
+    imageLink: './Art/sherine/ztm.png',
+    author: 'Sherine',
+    githubLink: 'https://github.com/sherinechally'
   },
   {
     artName: 'Hactoberfest2020',
@@ -167,6 +181,34 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/varunv/canva.html',
+    imageLink: './Art/varunv/canva.gif',
+    author: 'Varun V',
+    githubLink: 'https://github.com/VarunV991'
+  },
+  {
+    artName: 'Russian Flag',
+    pageLink: './Art/AdityaSaroj/index.html',
+    imageLink: './Art/AdityaSaroj/russia.png',
+    author: 'Aditya Kumar Saroj',
+    githubLink: 'https://github.com/AdityaSaroj'
+  },
+  {
+    artName: 'Bauhaus Geometric',
+    pageLink: './Art/handa/index.html',
+    imageLink: './Art/handa/geometric.png',
+    author: 'Handa',
+    githubLink: 'https://github.com/handa26'
+  },
+  {
+    artName: 'Gradient Hello World',
+    pageLink: './Art/mond/index.html',
+    imageLink: './Art/mond/pic.png',
+    author: 'Mond',
+    githubLink: 'https://github.com/monddelmundo'
   },
   {
     artName: 'Bubble ZTM',
