@@ -64,6 +64,13 @@ let cards = [
     githubLink: 'https://github.com/Neha045'
   },
   {
+    artName: 'Brazilian Flag',
+    pageLink: './Art/cassio/index.html',
+    imageLink: './Art/cassio/brazil.png',
+    author: 'Cassio Groh',
+    githubLink: 'https://github.com/cassiogroh'
+  },
+  {
     artName: 'Diamond',
     pageLink: './Art/ab510/diamond.html',
     imageLink: './Art/ab510/diamond.png',
@@ -85,7 +92,7 @@ let cards = [
     githubLink: 'https://github.com/rav291'
   },
   {
-    artName: 'the face of doom',
+    artName: 'Hactoberfest 2020',
     pageLink: './Art/velada/index.html',
     imageLink: './Art/velada/canvas.png',
     author: 'velada',
@@ -98,6 +105,48 @@ let cards = [
     author: 'Michael J',
     githubLink: 'https://github.com/michaeljoy255'
   },
+  {
+    artName: 'My Little Piece of Art',
+    pageLink: './Art/gincos/index.html',
+    imageLink: './Art/gincos/finished.png',
+    author: 'Gincos',
+    githubLink: 'https://github.com/gincos'
+  },
+  {
+    artName: 'Hactoberfest2020',
+    pageLink: './Art/krittiya-clark/index.html',
+    imageLink: './Art/krittiya-clark/Hactoberfest2020.png',
+    author: 'Krittiya Clark',
+    githubLink: 'https://github.com/krittiyaclark'
+  },
+  {
+    artName: 'Random monochromatic palette',
+    pageLink: './Art/carls13/index.html',
+    imageLink: './Art/carls13/mono.png',
+    author: 'Carls13',
+    githubLink: 'https://github.com/carls13'
+  },
+  {
+    artName: 'Cool cursor',
+    pageLink: './Art/ashwin/Cool-cursor.html',
+    imageLink: './Art/ashwin/Cool-cursor.png',
+    author: 'ashwin',
+    githubLink: 'https://github.com/AswinBarath'
+  },
+  {
+    artName: 'smile',
+    pageLink: './Art/gh0sttttt/gh0sttttt',
+    imageLink: './Art/gh0sttttt/smile-hacktoberfest.gif',
+    author: 'Aaron',
+    githubLink: 'https://github.com/gh0sttttt'
+  },
+  {
+		artName: 'Color Wall Builder',
+		pageLink: './Art/Jamiu/index.html',
+		imageLink: './Art/Jamiu/color.PNG',
+		author: 'Jamiu',
+		githubLink: 'https://github.com/JamiuJimoh'
+	}
 ];
 
 // +--------------------------------------------------------------------------------+
@@ -110,26 +159,22 @@ let cards = [
 // You don't need to modify this
 let contents = [];
 Shuffle(cards).forEach((c) => {
-  contents.push([
-    `<li class="card">` +
-      `<a href='${c.pageLink}' target="_blank">` +
-      `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
-      `</a>` +
-      `<div class="flex-content">` +
-      `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
-      `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
-      `</div>` +
-      `</li>`
-  ]);
+	contents.push([
+		`<li class="card">` +
+			`<a href='${c.pageLink}' target="_blank">` +
+			`<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
+			`</a>` +
+			`<div class="flex-content">` +
+			`<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
+			`<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
+			`</div>` +
+			`</li>`
+	]);
 });
 
 document.getElementById('cards').innerHTML = contents.join('');
 
 function Shuffle(o) {
-  for (
-    var j, x, i = o.length;
-    i;
-    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
-  );
-  return o;
+	for (var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+	return o;
 }
