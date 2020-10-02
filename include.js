@@ -308,7 +308,14 @@ let cards = [
 		imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
 		author: 'Sanjay Sanjel',
 		githubLink: 'https://github.com/sanjaysanjel019/'
-	}
+	},
+{
+	artName: 'funny house',
+	pageLink: './CarmenIancu/index.html',
+	imageLink: './CarmenIancu/funnyhouse.png',
+	author: 'Carmen',
+	githubLink: 'https://github.com/CarmenIancu'
+}
 ];
 
 // +--------------------------------------------------------------------------------+
