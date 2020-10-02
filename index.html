@@ -23,6 +23,20 @@
   </head>
 
   <body>
+    
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML canvas tag.</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+
+var grd = ctx.createLinearGradient(0,0,200,0);
+grd.addColorStop(0,"red");
+grd.addColorStop(1,"white");
+ctx.fillStyle = grd;
+ctx.fillRect(10,10,150,80);
+</script>
     <div class="header" id="head">
       <h1>Canvas Creations</h1>
       <h2>A ZTM Challenge for Hacktoberfest 2020</h2>
