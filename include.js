@@ -1,11 +1,25 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Monochromat your Photo',
+    pageLink: './Art/Shashvat/index.html',
+    imageLink: './Art/Shashvat/shashvat-sc.png',
+    author: 'Iamshashvat',
+    githubLink: 'https://github.com/Iamshashvat'
+  },
+  {
     artName: 'Welocme To Hacktoberfest',
     pageLink: './Art/Utkarsh2604/index.html',
     imageLink: './Art/Utkarsh2604/Screenshot.png',
     author: 'Utkarsh',
     githubLink: 'https://github.com/Utkarsh2604'
+  },
+  {
+    artName: 'Welocme To Hacktoberfest',
+    pageLink: './Art/shivam/index.html',
+    imageLink: './Art/shivem/loading.PNG',
+    author: 'shivam',
+    githubLink: 'https://github.com/shivam12k'
   },
   {
     artName: 'Japan',
@@ -78,6 +92,13 @@ let cards = [
     githubLink: 'https://github.com/cassiogroh'
   },
   {
+    artName: 'Blackboard',
+    pageLink: './Art/preity-p/index.html',
+    imageLink: './Art/preity-p/in-motion.gif',
+    author: 'Preity Priya',
+    githubLink: 'https://github.com/preity-p'
+  },
+  {
     artName: 'Diamond',
     pageLink: './Art/ab510/diamond.html',
     imageLink: './Art/ab510/diamond.png',
@@ -106,6 +127,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'Our Indian Flag',
+    pageLink: './Art/aman/index.html',
+    imageLink: './Art/aman/screenshot.jpg',
+    author: 'aman',
+    githubLink: 'https://github.com/aman339'
+  },
+  {
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
     imageLink: './Art/michaeljoy255/bubbles.png',
@@ -118,6 +146,13 @@ let cards = [
     imageLink: './Art/gincos/finished.png',
     author: 'Gincos',
     githubLink: 'https://github.com/gincos'
+  },
+  {
+    artName: 'ZTM Hacktoberfest',
+    pageLink: './Art/sherine/index.html',
+    imageLink: './Art/sherine/ztm.png',
+    author: 'Sherine',
+    githubLink: 'https://github.com/sherinechally'
   },
   {
     artName: 'Hactoberfest2020',
@@ -155,11 +190,25 @@ let cards = [
     githubLink: 'https://github.com/JamiuJimoh'
   },
   {
+    artName: 'Russia Flag',
+    pageLink: './Art/Rohit/index.html',
+    imageLink: './Art/Rohit/russia_flag.jpg',
+    author: 'Rohit Ahuja',
+    githubLink: 'https://github.com/rohit1204'
+  },
+  {
     artName: 'Particles ZTM',
     pageLink: './Art/ctq3103/particles-ztm.html',
     imageLink: './Art/ctq3103/particles-ztm.gif',
     author: 'ctq3103',
     githubLink: 'https://github.com/ctq3103'
+  },
+  {
+    artName: 'Hacktoberfest>Olympics',
+    pageLink: './Art/nnhhiilliisstt/index.html',
+    imageLink: './Art/nnhhiilliisstt/logo.png',
+    author: 'Kumar Aditya',
+    githubLink: 'https://github.com/nnhhiilliisstt'
   },
   {
     artName: 'Indian Flag',
@@ -168,14 +217,76 @@ let cards = [
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
   },
-    {
-        artName: 'Draw facial hair on your image',
-        pageLink: './Art/TamasKn/drawing.html',
-        imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
-        author: 'TamasKn',
-        githubLink: 'https://github.com/TamasKn',
-    },
-
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/varunv/canva.html',
+    imageLink: './Art/varunv/canva.gif',
+    author: 'Varun V',
+    githubLink: 'https://github.com/VarunV991'
+  },
+  {
+    artName: 'Russian Flag',
+    pageLink: './Art/AdityaSaroj/index.html',
+    imageLink: './Art/AdityaSaroj/russia.png',
+    author: 'Aditya Kumar Saroj',
+    githubLink: 'https://github.com/AdityaSaroj'
+  },
+  {
+    artName: 'Bauhaus Geometric',
+    pageLink: './Art/handa/index.html',
+    imageLink: './Art/handa/geometric.png',
+    author: 'Handa',
+    githubLink: 'https://github.com/handa26'
+  },
+  {
+    artName: 'Gradient Hello World',
+    pageLink: './Art/mond/index.html',
+    imageLink: './Art/mond/pic.png',
+    author: 'Mond',
+    githubLink: 'https://github.com/monddelmundo'
+  },
+  {
+    artName: 'Bubble ZTM',
+    pageLink: './Art/ctq3103/bubble-ztm.html',
+    imageLink: './Art/ctq3103/bubble-ztm.gif',
+    author: 'ctq3103',
+    githubLink: 'https://github.com/ctq3103'
+  },
+  {
+    artName: 'Color Circle Anmination',
+    pageLink: './Art/tranjenny/index.html',
+    imageLink: './Art/tranjenny/theta.gif',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
+  },
+  {
+    artName: 'Spiraly Helix',
+    pageLink: './Art/hmahajan99/index.html',
+    imageLink: './Art/hmahajan99/hmahajan99.png',
+    author: 'hmahajan99',
+    githubLink: 'https://github.com/hmahajan99'
+  },
+  {
+    artName: 'Lightning Strikes',
+    pageLink: './Art/Harshil/index.html',
+    imageLink: './Art/Harshil/lightning.PNG',
+    author: 'Harshil',
+    githubLink: 'https://github.com/funpractice'
+  },
+  {
+    artName: 'Romanian Flag',
+    pageLink: './Art/TigerAsH94/index.html',
+    imageLink: './Art/TigerAsH94/flagRo.png',
+    author: 'TigerAsH94',
+    githubLink: 'https://github.com/TigerAsH94'
+  },
+  {
+    artName: 'Draw facial hair on your image',
+    pageLink: './Art/TamasKn/drawing.html',
+    imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
+    author: 'TamasKn',
+    githubLink: 'https://github.com/TamasKn'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
