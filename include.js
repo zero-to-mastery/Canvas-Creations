@@ -90,7 +90,14 @@ let cards = [
     imageLink: './Art/velada/canvas.png',
     author: 'velada',
     githubLink: 'https://github.com/annima24'
-  }
+  },
+  {
+    artName: 'Bubbles',
+    pageLink: './Art/michaeljoy255/bubbles.html',
+    imageLink: './Art/michaeljoy255/bubbles.png',
+    author: 'Michael J',
+    githubLink: 'https://github.com/michaeljoy255'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
