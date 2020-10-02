@@ -146,7 +146,14 @@ let cards = [
 		imageLink: './Art/Jamiu/color.PNG',
 		author: 'Jamiu',
 		githubLink: 'https://github.com/JamiuJimoh'
-	}
+  },
+  {
+    artName: 'Bauhaus Geometric',
+    pageLink: './Art/handa/index.html',
+    imageLink: './Art/handa/geometric.png',
+    author: 'Handa',
+    githubLink: 'https://github.com/handa26'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
