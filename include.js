@@ -174,6 +174,13 @@ let cards = [
     imageLink: './Art/varunv/canva.gif',
     author: 'Varun V',
     githubLink: 'https://github.com/VarunV991'
+  },
+  {
+    artName: 'Russian Flag',
+    pageLink: './Art/AdityaSaroj/index.html',
+    imageLink: './Art/AdityaSaroj/russia.png',
+    author: 'Aditya Kumar Saroj',
+    githubLink: 'https://github.com/AdityaSaroj'
   }
 ];
 
