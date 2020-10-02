@@ -167,6 +167,13 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Spiraly Helix',
+    pageLink: './Art/hmahajan99/index.html',
+    imageLink: './Art/hmahajan99/hmahajan99.png',
+    author: 'hmahajan99',
+    githubLink: 'https://github.com/hmahajan99'
   }
 ];
 
