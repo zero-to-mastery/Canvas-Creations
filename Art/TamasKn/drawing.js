@@ -1,12 +1,22 @@
 window.addEventListener('load', () => {
     const canvas = document.querySelector('canvas')
     const ctx = canvas.getContext('2d')
+    const canvasWidth = 500
+    const canvasHeight = 300
 
-    canvas.height = 300
-    canvas.width = 500
-    canvas.style.position = 'absolute';
-    canvas.style.top = "100px";
-    canvas.style.left = "300px";
+    let offsetX = getOffsetX()
+    const offsetY = 200
+
+    window.addEventListener('resize', () => {
+        offsetX = getOffsetX()
+    })
+
+    function getOffsetX() {
+        return (document.body.clientWidth - canvasWidth) / 2
+    }
+
+    canvas.height = canvasHeight
+    canvas.width = canvasWidth
 
     let color = "blue"
     let width = 2
@@ -28,10 +38,10 @@ window.addEventListener('load', () => {
         ctx.strokeStyle = color
         ctx.lineWidth = width
         ctx.lineCap = 'round'
-        ctx.lineTo(e.clientX-300, e.clientY-100)
+        ctx.lineTo(e.clientX-offsetX, e.clientY-offsetY)
         ctx.stroke()
         ctx.beginPath()
-        ctx.moveTo(e.clientX-300, e.clientY-100)
+        ctx.moveTo(e.clientX-offsetX, e.clientY-offsetY)
     }
 
     canvas.addEventListener('mousedown', startPos)
