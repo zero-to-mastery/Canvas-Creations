@@ -281,22 +281,28 @@ let cards = [
 		author: 'Harshil',
 		githubLink: 'https://github.com/funpractice'
 	},
-
-	{
-		artName: 'Romanian Flag',
-		pageLink: './Art/TigerAsH94/index.html',
-		imageLink: './Art/TigerAsH94/flagRo.png',
-		author: 'TigerAsH94',
-		githubLink: 'https://github.com/TigerAsH94'
-	},
-	{
-		artName: 'Draw facial hair on your image',
-		pageLink: './Art/TamasKn/drawing.html',
-		imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
-		author: 'TamasKn',
-		githubLink: 'https://github.com/TamasKn'
-	},
-	{
+  {
+    artName: 'Romanian Flag',
+    pageLink: './Art/TigerAsH94/index.html',
+    imageLink: './Art/TigerAsH94/flagRo.png',
+    author: 'TigerAsH94',
+    githubLink: 'https://github.com/TigerAsH94'
+  },
+  {
+    artName: 'Draw facial hair on your image',
+    pageLink: './Art/TamasKn/drawing.html',
+    imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
+    author: 'TamasKn',
+    githubLink: 'https://github.com/TamasKn'
+  },
+  {
+    artName: 'Code your life with efforts',
+    pageLink: './Art/Ashutosh/index.html',
+    imageLink: './Art/Ashutosh/code.jpg',
+    author: 'Ashutosh',
+    githubLink: 'https://github.com/Ashutosh00710'
+  },
+  {
 		artName: 'Multi-coloured liquid Canvas drawing',
 		pageLink: './Art/sanjaysanjel/index.html',
 		imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
