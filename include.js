@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: "CSS Heart",
+    pageLink: "./Art/Aarush/Heart.html",
+    imageLink: './Art/Aarush/Heart.png',
+    author: 'Aarush Bhat',
+    githubLink: 'https://github.com/r-ush'
+  },
+  {
     artName: 'Welocme To Hacktoberfest',
     pageLink: './Art/Utkarsh2604/index.html',
     imageLink: './Art/Utkarsh2604/Screenshot.png',
