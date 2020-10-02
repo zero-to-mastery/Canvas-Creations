@@ -167,6 +167,13 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Gradient Hello World',
+    pageLink: './Art/mond/index.html',
+    imageLink: './Art/mond/pic.png',
+    author: 'Mond',
+    githubLink: 'https://github.com/monddelmundo'
   }
 ];
 
