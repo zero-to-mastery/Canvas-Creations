@@ -8,6 +8,13 @@ let cards = [
     githubLink: 'https://github.com/Utkarsh2604'
   },
   {
+    artName: 'Japan',
+    pageLink: './Art/kelvinchan2406/index.html',
+    imageLink: './Art/kelvinchan2406/japan.png',
+    author: 'kelvinchan2406',
+    githubLink: 'https://github.com/kelvinchan2406'
+  },
+  {
     artName: 'welcome robot',
     pageLink: './Art/joy/robot.html',
     imageLink: './Art/joy/robot.png',
@@ -135,7 +142,7 @@ let cards = [
   },
   {
     artName: 'smile',
-    pageLink: './Art/gh0sttttt/gh0sttttt',
+    pageLink: './Art/gh0sttttt/gh0sttttt.html',
     imageLink: './Art/gh0sttttt/smile-hacktoberfest.gif',
     author: 'Aaron',
     githubLink: 'https://github.com/gh0sttttt'
@@ -166,22 +173,26 @@ let cards = [
 // You don't need to modify this
 let contents = [];
 Shuffle(cards).forEach((c) => {
-	contents.push([
-		`<li class="card">` +
-			`<a href='${c.pageLink}' target="_blank">` +
-			`<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
-			`</a>` +
-			`<div class="flex-content">` +
-			`<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
-			`<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
-			`</div>` +
-			`</li>`
-	]);
+  contents.push([
+    `<li class="card">` +
+      `<a href='${c.pageLink}' target="_blank">` +
+      `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
+      `</a>` +
+      `<div class="flex-content">` +
+      `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
+      `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
+      `</div>` +
+      `</li>`
+  ]);
 });
 
 document.getElementById('cards').innerHTML = contents.join('');
 
 function Shuffle(o) {
-	for (var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
-	return o;
+  for (
+    var j, x, i = o.length;
+    i;
+    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
+  );
+  return o;
 }
