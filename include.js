@@ -64,6 +64,13 @@ let cards = [
     githubLink: 'https://github.com/Neha045'
   },
   {
+    artName: 'Brazilian Flag',
+    pageLink: './Art/cassio/index.html',
+    imageLink: './Art/cassio/brazil.png',
+    author: 'Cassio Groh',
+    githubLink: 'https://github.com/cassiogroh'
+  },
+  {
     artName: 'Diamond',
     pageLink: './Art/ab510/diamond.html',
     imageLink: './Art/ab510/diamond.png',
@@ -97,6 +104,13 @@ let cards = [
     imageLink: './Art/ashwin/Cool-cursor.png',
     author: 'ashwin',
     githubLink: 'https://github.com/AswinBarath'
+  },
+  {
+    artName: 'smile',
+    pageLink: './Art/gh0sttttt/gh0sttttt',
+    imageLink: './Art/gh0sttttt/smile-hacktoberfest.gif',
+    author: 'Aaron',
+    githubLink: 'https://github.com/gh0sttttt'
   }
 ];
 
