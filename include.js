@@ -308,14 +308,21 @@ let cards = [
 		imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
 		author: 'Sanjay Sanjel',
 		githubLink: 'https://github.com/sanjaysanjel019/'
-	},
-	{
-		artName: 'Happy Hacktoberfest',
+  },
+  {
+    artName: 'Text Canvas',
+    pageLink: './Art/skycoder/index.html',
+    imageLink: './Art/skycoder/think.png',
+    author: 'SkyC0der',
+    githubLink: 'https://github.com/SkyC0der'
+  },
+  {
+    artName: 'Happy Hacktoberfest',
 		pageLink: './Art/SquadTeemo/index.html',
 		imageLink: './Art/SquadTeemo/canvas_joy.jpg',
 		author: 'SquadTeemo',
 		githubLink: 'https://squadteemo.github.io/canvas-joy/'
-	  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
