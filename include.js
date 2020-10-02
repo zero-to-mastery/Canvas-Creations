@@ -303,11 +303,25 @@ let cards = [
     githubLink: 'https://github.com/Ashutosh00710'
   },
   {
-    artName: 'Multi-coloured liquid Canvas drawing',
-    pageLink: './Art/sanjaysanjel/index.html',
-    imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
-    author: 'Sanjay Sanjel',
-    githubLink: 'https://github.com/sanjaysanjel019/'
+		artName: 'Multi-coloured liquid Canvas drawing',
+		pageLink: './Art/sanjaysanjel/index.html',
+		imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
+		author: 'Sanjay Sanjel',
+		githubLink: 'https://github.com/sanjaysanjel019/'
+  },
+  {
+    artName: 'Text Canvas',
+    pageLink: './Art/skycoder/index.html',
+    imageLink: './Art/skycoder/think.png',
+    author: 'SkyC0der',
+    githubLink: 'https://github.com/SkyC0der'
+  },
+  {
+    artName: 'Happy Hacktoberfest',
+		pageLink: './Art/SquadTeemo/index.html',
+		imageLink: './Art/SquadTeemo/canvas_joy.jpg',
+		author: 'SquadTeemo',
+		githubLink: 'https://squadteemo.github.io/canvas-joy/'
   },
   {
     artName: 'Flower Power',
