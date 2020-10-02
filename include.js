@@ -345,6 +345,13 @@ let cards = [
     githubLink: 'https://github.com/CarmenIancu'
   },
   {
+    artName: 'smiley face',
+    pageLink: './Art/biancasehn/index.html',
+    imageLink: './Art/biancasehn/Art.png',
+    author: 'Bianca',
+    githubLink: 'https://github.com/biancasehn'
+  },
+  {
     artName: 'Random Colours',
     pageLink: './Art/hamzazdev/index.html',
     imageLink: './Art/hamzazdev/canvas.png',
