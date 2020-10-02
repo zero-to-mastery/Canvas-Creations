@@ -364,6 +364,13 @@ let cards = [
     imageLink: './Art/hamzazdev/canvas.png',
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
+  },
+  {
+    artName: 'Coordinate Graph',
+    pageLink: './Art/ytrkpt/index.html',
+    imageLink: './Art/ytrkptl/screenshot.png',
+    author: 'Joy',
+    githubLink: 'https://github.com/ytrkptl'
   }
 ];
 
