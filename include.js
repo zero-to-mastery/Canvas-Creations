@@ -400,6 +400,13 @@ let cards = [
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
   }
+  {
+    artName: 'Hackoberfest 2020',
+    pageLink: './Art/WayneMacMavis/index.html',
+    imageLink: './Art/WayneMacMavis/img.png',
+    author: 'Wayne',
+    githubLink: 'https://github.com/WayneMacMavis'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
