@@ -364,6 +364,13 @@ let cards = [
     imageLink: './Art/hamzazdev/canvas.png',
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
+  },
+  {
+    artName: 'Random Circles',
+    pageLink: './Art/Atharva/index.html',
+    imageLink: './Art/Atharva/pic.JPG',
+    author: 'Atharva',
+    githubLink: 'https://github.com/atharv123-wq'
   }
 ];
 
