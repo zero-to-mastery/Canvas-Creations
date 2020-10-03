@@ -378,6 +378,13 @@ let cards = [
     imageLink: './Art/ZachTheGecko/img.png',
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
+  },
+  {
+    artName: 'Pixels in Motion',
+    pageLink: './Art/muslimalfatih/index.html',
+    imageLink: './Art/muslimalfatih/pixels-in-motion.png',
+    author: 'Muslim',
+    githubLink: 'https://github.com/muslimalfatih'
   }
 ];
 
