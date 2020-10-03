@@ -364,6 +364,13 @@ let cards = [
     imageLink: './Art/hamzazdev/canvas.png',
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
+  },
+  {
+    artName: 'Baby Yoda',
+    pageLink: './Art/samipPoudel/index.html',
+    imageLink: './Art/samipPoudel/babyYoda.jpg',
+    author: 'Samip Poudel',
+    githubLink: 'https://github.com/SamipPoudel58'
   }
 ];
 
