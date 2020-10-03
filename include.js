@@ -364,6 +364,13 @@ let cards = [
     imageLink: './Art/hamzazdev/canvas.png',
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
+  },
+  {
+    artName: 'Run For your Life',
+    pageLink: './Art/Lincredible/index.html',
+    imageLink: './Art/Lincredible/complete.png',
+    author: 'Lincredible',
+    githubLink: 'https://github.com/LanguageXange'
   }
 ];
 
