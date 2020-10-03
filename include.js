@@ -378,6 +378,13 @@ let cards = [
     imageLink: './Art/ZachTheGecko/img.png',
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
+  },
+  {
+    artName: 'Nepal Flag',
+    pageLink: './Art/shrijaltamrakar/index.html',
+    imageLink: './Art/shrijaltamrakar/nepalFlag.png',
+    author: 'Shrijal',
+    githubLink: 'https://github.com/shrijaltamrakar'
   }
 ];
 
