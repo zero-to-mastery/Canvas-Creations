@@ -378,13 +378,21 @@ let cards = [
     imageLink: './Art/ZachTheGecko/img.png',
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
-  },{
+  },
+  {
     artName: 'Baby Yoda',
     pageLink: './Art/samipPoudel/index.html',
     imageLink: './Art/samipPoudel/babyYoda.jpg',
     author: 'Samip Poudel',
     githubLink: 'https://github.com/SamipPoudel58'
   },
+  {
+    artName: 'Scotland the Brave',
+    pageLink: './Art/rmchardie/index.html',
+    imageLink: './Art/rmchardie/flag.png',
+    author: 'Ross McHardie',
+    githubLink: 'https://github.com/rmchardie'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
