@@ -408,6 +408,83 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Hexagon',
+    pageLink: './Art/yashlad681/index.html',
+    imageLink: './Art/yashlad681/hexagon.PNG',
+    author: 'Yash',
+    githubLink: 'https://github.com/yashlad681'
+  },
+  {
+    artName: 'Run For your Life',
+    pageLink: './Art/Lincredible/index.html',
+    imageLink: './Art/Lincredible/complete.png',
+    author: 'Lincredible',
+    githubLink: 'https://github.com/LanguageXange'
+  },
+  {
+    artName: 'ZTM Art',
+    pageLink: './Art/etarrosa/index.html',
+    imageLink: './Art/etarrosa/ztm-art.png',
+    author: 'etarrosa',
+    githubLink: 'https://github.com/etarrosa'
+  },
+  {
+    artName: 'Random Circles',
+    pageLink: './Art/Atharva/index.html',
+    imageLink: './Art/Atharva/pic.JPG',
+    author: 'Atharva',
+    githubLink: 'https://github.com/atharv123-wq'
+  },
+  {
+    artName: 'Sky',
+    pageLink: './Art/krutik/index.html',
+    imageLink: './Art/krutik/sky.jpeg',
+    author: 'krutik',
+    githubLink: 'https://github.com/krutik20'
+  },
+  {
+    artName: 'Pixels in Motion',
+    pageLink: './Art/muslimalfatih/index.html',
+    imageLink: './Art/muslimalfatih/pixels-in-motion.png',
+    author: 'Muslim',
+    githubLink: 'https://github.com/muslimalfatih'
+  },
+  {
+    artName: 'Nepal Flag',
+    pageLink: './Art/shrijaltamrakar/index.html',
+    imageLink: './Art/shrijaltamrakar/nepalFlag.png',
+    author: 'Shrijal',
+    githubLink: 'https://github.com/shrijaltamrakar'
+  },
+  {
+    artName: 'Coordinate Graph',
+    pageLink: './Art/ytrkptl/index.html',
+    imageLink: './Art/ytrkptl/screenshot.png',
+    author: 'Yatrik Patel',
+    githubLink: 'https://github.com/ytrkptl'
+  },
+  {
+    artName: 'fireworks',
+    pageLink: './Art/badger/index.html',
+    imageLink: './Art/badger/sshot.jpg',
+    author: 'mr.badger',
+    githubLink: 'https://github.com/'
+  },
+  {
+    artName: "King's Heart",
+    pageLink: './Art/divyansh/index.html',
+    imageLink: './Art/divyansh/King.jpg',
+    author: 'Divyansh',
+    githubLink: 'https://github.com/divyanshrastogi51'
+  },
+  {
+    artName: 'Hackoberfest 2020',
+    pageLink: './Art/WayneMacMavis/index.html',
+    imageLink: './Art/WayneMacMavis/img.png',
+    author: 'Wayne',
+    githubLink: 'https://github.com/WayneMacMavis'
+  },
+  {
     artName: 'Indonesia Flag',
     pageLink: './Art/Ibrahimsyah/index.html',
     imageLink: './Art/Ibrahimsyah/Indonesia.png',
