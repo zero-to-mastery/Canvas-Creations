@@ -379,6 +379,13 @@ let cards = [
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
   }
+  {
+    artName: 'fireworks',
+    pageLink: './Art/badger/index.html',
+    imageLink: './Art/badger/sshot.jpg',
+    author: 'mr.badger',
+    githubLink: 'https://github.com/'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
