@@ -406,6 +406,12 @@ let cards = [
     imageLink: './Art/taniyahinduja/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },{
+    artName: 'Rectangle Canvas',
+    pageLink: './Art/Atharva/index.html',
+    imageLink: './Art/Atharva/pic.JPG',
+    author: 'Atharva',
+    githubLink: 'https://github.com/atharv123-wq'
   }
 ];
 
