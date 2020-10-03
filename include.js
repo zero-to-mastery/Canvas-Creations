@@ -378,6 +378,13 @@ let cards = [
     imageLink: './Art/ZachTheGecko/img.png',
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
+  },
+  {
+    artName: 'Coordinate Graph',
+    pageLink: './Art/ytrkptl/index.html',
+    imageLink: './Art/ytrkptl/screenshot.png',
+    author: 'Yatrik Patel',
+    githubLink: 'https://github.com/ytrkptl'
   }
 ];
 
