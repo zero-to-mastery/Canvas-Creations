@@ -378,6 +378,13 @@ let cards = [
     imageLink: './Art/ZachTheGecko/img.png',
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
+  },
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/saqlain-rasheed/index.html',
+    imageLink: './Art/saqlain-rasheed/img.png',
+    author: 'Saqlain',
+    githubLink: 'https://github.com/saqlainrasheed'
   }
 ];
 
