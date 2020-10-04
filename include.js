@@ -603,6 +603,13 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'random circles with rectangles',
+    pageLink: './Art/kirstenbolda/index.html',
+    imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
+    author: 'Kirsten',
+    githubLink: 'https://github.com/KirstenBolda'
   }
 ];
 
