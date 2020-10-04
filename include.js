@@ -607,7 +607,7 @@ let cards = [
   {
     artName: 'Black Hole',
     pageLink: './Art/nataliepina/index.html',
-    imageLink: './Art/nataliepina/img.png',
+    imageLink: './Art/nataliepina/blackhole.png',
     author: 'Natalie',
     githubLink: 'https://github.com/nataliepina'
   }
