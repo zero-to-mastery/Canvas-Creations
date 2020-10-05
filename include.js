@@ -603,6 +603,13 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Ripple Effect',
+    pageLink: './Art/ripples/index.html',
+    imageLink: './Art/ripples/ripple.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
   }
 ];
 
