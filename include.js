@@ -604,6 +604,13 @@ let cards = [
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
   }
+  {
+    artName: 'Israel Flag',
+    pageLink: './Art/Aviad198/index.html',
+    imageLink: './Art/Aviad198/IsraelFlag.png',
+    author: 'Aviad Hitner',
+    githubLink: 'https://github.com/aviad198'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
