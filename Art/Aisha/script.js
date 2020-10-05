@@ -19,7 +19,7 @@ function creatingParticles() {
             opacity: Math.random(),  
             speed: random(5, -1),  
             speed: random(-1, -5),    
-            r:random(0.5, 5),
+            r:random(0.5, 5.5),
         })
     }
 };

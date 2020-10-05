@@ -553,7 +553,14 @@ let cards = [
     imageLink: './Art/sdangoy/sus.png',
     author: 'Stefan Dangoy',
     githubLink: 'https://github.com/sdangoy'
-  }
+  },
+  {
+    artName: 'Galaxy',
+    pageLink: './Art/Aisha/index.html',
+    imageLink: './Art/Aisha/galaxy.png',
+    author: 'ASH',
+    githubLink: 'https://github.com/aishaamir'
+}
 ];
 
 // +--------------------------------------------------------------------------------+
