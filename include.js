@@ -527,6 +527,13 @@ let cards = [
     githubLink: 'https://github.com/TTumyr/'
   },
   {
+    artName: 'Galaxy',
+    pageLink: './Art/Aisha/index.html',
+    imageLink: './Art/Aisha/galaxy.png',
+    author: 'ASH',
+    githubLink: 'https://github.com/aishaamir'
+},
+  {
     artName: 'Drawpad',
     pageLink: './Art/Rahulm2310/index.html',
     imageLink: './Art/Rahulm2310/drawpad.gif',
@@ -554,13 +561,7 @@ let cards = [
     author: 'Stefan Dangoy',
     githubLink: 'https://github.com/sdangoy'
   },
-  {
-    artName: 'Galaxy',
-    pageLink: './Art/Aisha/index.html',
-    imageLink: './Art/Aisha/galaxy.png',
-    author: 'ASH',
-    githubLink: 'https://github.com/aishaamir'
-}
+
 ];
 
 // +--------------------------------------------------------------------------------+
