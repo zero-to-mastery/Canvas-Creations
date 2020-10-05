@@ -527,7 +527,7 @@ let cards = [
     githubLink: 'https://github.com/TTumyr/'
   },
   {
-    artName: 'Galaxy',
+    artName: 'galaxy',
     pageLink: './Art/Aisha/index.html',
     imageLink: './Art/Aisha/galaxy.png',
     author: 'ASH',
