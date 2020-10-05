@@ -603,6 +603,13 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Art',
+    pageLink: './Art/matthewdbrock1968/art.html',
+    imageLink: './Art/matthewdbrock1968/art.png',
+    author: 'Matthew D. Brock',
+    githubLink: 'https://github.com/matthewdbrock1968'
   }
 ];
 
