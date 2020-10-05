@@ -603,6 +603,13 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Cool Canvas BackGround',
+    pageLink: './Art/UnderDaHood/index.html',
+    imageLink: './Art/UnderDaHood/Thumbnail.gif',
+    author: 'DEV',
+    githubLink: 'https://github.com/UnderDaHood'
   }
 ];
 
