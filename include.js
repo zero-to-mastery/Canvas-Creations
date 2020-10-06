@@ -605,6 +605,20 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Black Hole',
+    pageLink: './Art/nataliepina/index.html',
+    imageLink: './Art/nataliepina/blackhole.png',
+    author: 'Natalie',
+    githubLink: 'https://github.com/nataliepina'
+  },
+  {
+    artName: 'random circles with rectangles',
+    pageLink: './Art/kirstenbolda/index.html',
+    imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
+    author: 'Kirsten',
+    githubLink: 'https://github.com/KirstenBolda'
+  },
+  {
     artName: 'Cool Canvas BackGround',
     pageLink: './Art/UnderDaHood/index.html',
     imageLink: './Art/UnderDaHood/Thumbnail.gif',
