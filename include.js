@@ -535,6 +535,13 @@ let cards = [
     githubLink: 'https://github.com/TTumyr/'
   },
   {
+    artName: 'galaxy',
+    pageLink: './Art/Aisha/index.html',
+    imageLink: './Art/Aisha/galaxy.png',
+    author: 'ASH',
+    githubLink: 'https://github.com/aishaamir'
+  },
+  {
     artName: 'Drawpad',
     pageLink: './Art/Rahulm2310/index.html',
     imageLink: './Art/Rahulm2310/drawpad.gif',
@@ -610,6 +617,68 @@ let cards = [
     imageLink: './Art/dhenry/screenshot.png',
     author: 'Dalia',
     githubLink: 'https://github.com/Krungleviciute'
+  },
+    artName: 'Black Hole',
+    pageLink: './Art/nataliepina/index.html',
+    imageLink: './Art/nataliepina/blackhole.png',
+    author: 'Natalie',
+    githubLink: 'https://github.com/nataliepina'
+  },
+  {
+    artName: 'random circles with rectangles',
+    pageLink: './Art/kirstenbolda/index.html',
+    imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
+    author: 'Kirsten',
+    githubLink: 'https://github.com/KirstenBolda'
+  },
+  {
+    artName: 'Cool Canvas BackGround',
+    pageLink: './Art/UnderDaHood/index.html',
+    imageLink: './Art/UnderDaHood/Thumbnail.gif',
+    author: 'DEV',
+    githubLink: 'https://github.com/UnderDaHood'
+  },
+  {
+    artName: 'Israel Flag',
+    pageLink: './Art/Aviad198/index.html',
+    imageLink: './Art/Aviad198/IsraelFlag.png',
+    author: 'Aviad Hitner',
+    githubLink: 'https://github.com/aviad198'
+  },
+  {
+    artName: 'Ripple Effect',
+    pageLink: './Art/ripples/index.html',
+    imageLink: './Art/ripples/ripple.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'HTML5CanvasAnimation',
+    pageLink: './Art/diana/HTML5CanvasAnimation-main/index.html',
+    imageLink: './Art/diana/HTML5CanvasAnimation.PNG',
+    author: 'Diana Vilé',
+    githubLink: 'https://github.com/dianavile'
+  },
+  {
+    artName: 'Art',
+    pageLink: './Art/matthewdbrock1968/art.html',
+    imageLink: './Art/matthewdbrock1968/art.png',
+    author: 'Matthew D. Brock',
+    githubLink: 'https://github.com/matthewdbrock1968'
+  },
+  {
+    artName: '3D CUBE',
+    pageLink: './Art/kunalprakash1309/index.html',
+    imageLink: './Art/kunalprakash1309/Screenshot.png',
+    author: 'Kunal Prakash',
+    githubLink: 'https://github.com/kunalprakash1309'
+  },
+  {
+    artName: 'Sierpinski triangle',
+    pageLink: './Art/indremak/index.html',
+    imageLink: './Art/indremak/Sierpinski_triangle.png',
+    author: 'Indre Mak',
+    githubLink: 'https://github.com/indremak'
   }
 ];
 
