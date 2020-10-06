@@ -605,6 +605,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Black Hole',
+    pageLink: './Art/nataliepina/index.html',
+    imageLink: './Art/nataliepina/blackhole.png',
+    author: 'Natalie',
+    githubLink: 'https://github.com/nataliepina'
+  },
+  {
     artName: 'random circles with rectangles',
     pageLink: './Art/kirstenbolda/index.html',
     imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
