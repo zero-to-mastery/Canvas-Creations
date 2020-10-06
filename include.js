@@ -535,6 +535,13 @@ let cards = [
     githubLink: 'https://github.com/TTumyr/'
   },
   {
+    artName: 'galaxy',
+    pageLink: './Art/Aisha/index.html',
+    imageLink: './Art/Aisha/galaxy.png',
+    author: 'ASH',
+    githubLink: 'https://github.com/aishaamir'
+},
+  {
     artName: 'Drawpad',
     pageLink: './Art/Rahulm2310/index.html',
     imageLink: './Art/Rahulm2310/drawpad.gif',
@@ -603,6 +610,41 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Black Hole',
+    pageLink: './Art/nataliepina/index.html',
+    imageLink: './Art/nataliepina/blackhole.png',
+    author: 'Natalie',
+    githubLink: 'https://github.com/nataliepina'
+  },
+  {
+    artName: 'random circles with rectangles',
+    pageLink: './Art/kirstenbolda/index.html',
+    imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
+    author: 'Kirsten',
+    githubLink: 'https://github.com/KirstenBolda'
+  },
+  {
+    artName: 'Cool Canvas BackGround',
+    pageLink: './Art/UnderDaHood/index.html',
+    imageLink: './Art/UnderDaHood/Thumbnail.gif',
+    author: 'DEV',
+    githubLink: 'https://github.com/UnderDaHood'
+  },
+  {
+    artName: 'Israel Flag',
+    pageLink: './Art/Aviad198/index.html',
+    imageLink: './Art/Aviad198/IsraelFlag.png',
+    author: 'Aviad Hitner',
+    githubLink: 'https://github.com/aviad198'
+  },
+  {
+    artName: 'Ripple Effect',
+    pageLink: './Art/ripples/index.html',
+    imageLink: './Art/ripples/ripple.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
   },
   {
     artName: 'Art',
