@@ -607,7 +607,7 @@ let cards = [
   {
     artName: 'Colourful Ball Generator',
     pageLink: './Art/khoaHyh/index.html',
-    imageLink: './Art/khoaHyh/img.png',
+    imageLink: './Art/khoaHyh/screenshot_canvas.png',
     author: 'khoaHyh',
     githubLink: 'https://github.com/khoaHyh'
   }
