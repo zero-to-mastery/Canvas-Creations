@@ -603,6 +603,13 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Colourful Ball Generator',
+    pageLink: './Art/khoaHyh/index.html',
+    imageLink: './Art/khoaHyh/img.png',
+    author: 'khoaHyh',
+    githubLink: 'https://github.com/khoaHyh'
   }
 ];
 
