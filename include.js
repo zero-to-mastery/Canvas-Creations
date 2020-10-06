@@ -603,6 +603,13 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Sierpinski triangle',
+    pageLink: './Art/indremak/index.html',
+    imageLink: './Art/indremak/Sierpinski_triangle.png',
+    author: 'Indre Mak',
+    githubLink: 'https://github.com/indremak'
   }
 ];
 
