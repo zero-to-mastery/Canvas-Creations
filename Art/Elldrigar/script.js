@@ -2,25 +2,31 @@ const canvas = document.getElementById('canvas');
 const context = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
-let size = 0;
-let positionX = 0;
+context.globalCompositeOperation = 'destination-over';
+
+let number = 0;
+let scale = 12;
 
 const drawFlower = () => {
-  context.fillStyle = '#dad5d5';
+  let angle = number * 3.5;
+  let radius = scale * Math.sqrt(number);
+  let positionX = radius * Math.sin(angle) + canvas.width / 2;
+  let positionY = radius * Math.cos(angle) + canvas.height / 2;
+
+  context.fillStyle = `rgb(${number}, ${number}, ${number * 3})`;
   context.strokeStyle = '#326ebb';
-  context.lineWidth = 5;
+  context.lineWidth = 2;
   context.beginPath();
-  context.arc(positionX, 300, size, 0, Math.PI * 2);
+  context.arc(positionX, positionY, number, 0, Math.PI * 2);
   context.closePath();
   context.fill();
   context.stroke();
+  number++;
 };
 
 const animate = () => {
-  context.clearRect(0, 0, canvas.width, canvas.height);
-  size += 0.05;
-  positionX += 0.1;
   drawFlower();
+  if (number > 170) return;
   requestAnimationFrame(animate);
 };
 
