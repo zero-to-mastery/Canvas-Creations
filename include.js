@@ -603,6 +603,13 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: '3D CUBE',
+    pageLink: './Art/kunalprakash1309/index.html',
+    imageLink: './Art/kunalprakash1309/Screenshot.png',
+    author: 'Kunal Prakash',
+    githubLink: 'https://github.com/kunalprakash1309'
   }
 ];
 
