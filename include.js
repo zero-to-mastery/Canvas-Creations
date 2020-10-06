@@ -673,7 +673,14 @@ let cards = [
     imageLink: './Art/indremak/Sierpinski_triangle.png',
     author: 'Indre Mak',
     githubLink: 'https://github.com/indremak'
-  }
+  },
+  {
+    artName: 'Hacktoberfest Spots',
+    pageLink: './Art/denice-s/index.html',
+    imageLink: './Art/denice-s/denice-s',
+    author: 'Denice Soper',
+    githubLink: 'https://github.com/Denice-S'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
