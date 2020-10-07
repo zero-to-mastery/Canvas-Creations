@@ -673,6 +673,13 @@ let cards = [
     imageLink: './Art/indremak/Sierpinski_triangle.png',
     author: 'Indre Mak',
     githubLink: 'https://github.com/indremak'
+  },
+  {
+    artName: 'Random Night Sky',
+    pageLink: './Art/twinkle/index.html',
+    imageLink: './Art/twinkle/random_night_sky.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
   }
 ];
 
