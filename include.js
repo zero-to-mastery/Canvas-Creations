@@ -708,7 +708,7 @@ let cards = [
     imageLink: './Art/dhenry/screenshot.png',
     author: 'Dalia',
     githubLink: 'https://github.com/Krungleviciute'
-  }
+  },
   {
     artName: 'Colourful Ball Generator',
     pageLink: './Art/indremak/index.html',
