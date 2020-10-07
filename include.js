@@ -150,7 +150,7 @@ let cards = [
   {
     artName: 'tetris art',
     pageLink: './Art/thomashewett/index.html',
-    imageLink: './Art/joy/tetris.png',
+    imageLink: './Art/joy/tetris.gif',
     author: 'thomashewett',
     githubLink: 'https://github.com/thomashewett'
   },
