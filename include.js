@@ -675,12 +675,19 @@ let cards = [
     githubLink: 'https://github.com/indremak'
   },
   {
+    artName: 'Snake Game',
+    pageLink: './Art/Jude/snakegame.html',
+    imageLink: './Art/Jude/images/snake.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
+  },
+  {
     artName: 'Hacktoberfest Spots',
     pageLink: './Art/denice-s/index.html',
     imageLink: './Art/denice-s/denice-s',
     author: 'Denice Soper',
     githubLink: 'https://github.com/Denice-S'
-  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
