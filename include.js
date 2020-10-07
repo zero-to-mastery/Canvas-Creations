@@ -154,6 +154,7 @@ let cards = [
     author: 'thomashewett',
     githubLink: 'https://github.com/thomashewett'
   },
+  {
     artName: 'Our Indian Flag',
     pageLink: './Art/aman/index.html',
     imageLink: './Art/aman/screenshot.jpg',
