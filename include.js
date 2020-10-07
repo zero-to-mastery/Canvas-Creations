@@ -680,6 +680,13 @@ let cards = [
     imageLink: './Art/Jude/images/snake.png',
     author: 'Jude Savio',
     githubLink: 'https://github.com/JudeSavio'
+  },
+  {
+    artName: 'Atom',
+    pageLink: './Art/hieutrinh/atom.html',
+    imageLink: './Art/hieutrinh/atom.gif',
+    author: 'trinhminhhieu',
+    githubLink: 'https://github.com/trinhminhhieu'
   }
 ];
 
