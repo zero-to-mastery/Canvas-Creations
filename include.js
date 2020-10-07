@@ -90,7 +90,14 @@ let cards = [
     imageLink: './Art/velada/canvas.png',
     author: 'velada',
     githubLink: 'https://github.com/annima24'
-  }
+  },
+  {
+    artName: 'tetris art',
+    pageLink: './Art/thomashewett/index.html',
+    imageLink: './Art/joy/tetris.png',
+    author: 'thomashewett',
+    githubLink: 'https://github.com/thomashewett'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
