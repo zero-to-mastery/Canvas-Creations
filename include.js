@@ -752,6 +752,20 @@ let cards = [
     githubLink: 'https://github.com/Valdas3'
   },
   {
+	artName: 'Atomic Structure',
+    pageLink: './Art/Karthikk/index.html',
+    imageLink: './Art/Karthikk/atoms.png',
+    author: 'Karthik K',
+    githubLink: 'https://github.com/Karthikk15'
+  },
+  {
+    artName: 'Circle Snake?',
+    pageLink: './Art/lenjamin/index.html',
+    imageLink: './Art/lenjamin/snake.JPG',
+    author: 'lenjamin',
+    githubLink: 'https://github.com/lenjaminbiu'
+  },
+  {
     artName: 'Germany Pride',
     pageLink: './Art/Mudit/index.html',
     imageLink: './Art/Mudit/Flag.PNG',
@@ -788,9 +802,7 @@ document.getElementById('cards').innerHTML = contents.join('');
 
 function Shuffle(o) {
   for (
-    var j, x, i = o.length;
-    i;
-    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
+    var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
   );
   return o;
 }
