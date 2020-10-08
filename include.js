@@ -673,6 +673,13 @@ let cards = [
     imageLink: './Art/indremak/Sierpinski_triangle.png',
     author: 'Indre Mak',
     githubLink: 'https://github.com/indremak'
+  },
+  {
+    artName: 'Atomic Structure',
+    pageLink: './Art/Karthikk/index.html',
+    imageLink: './Art/Karthikk/atoms.png',
+    author: 'Karthik K',
+    githubLink: 'https://github.com/Karthikk15'
   }
 ];
 
