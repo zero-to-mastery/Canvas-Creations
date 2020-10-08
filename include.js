@@ -752,6 +752,13 @@ let cards = [
     githubLink: 'https://github.com/Valdas3'
   },
   {
+	artName: 'Atomic Structure',
+    pageLink: './Art/Karthikk/index.html',
+    imageLink: './Art/Karthikk/atoms.png',
+    author: 'Karthik K',
+    githubLink: 'https://github.com/Karthikk15'
+  },
+  {
     artName: 'Circle Snake?',
     pageLink: './Art/lenjamin/index.html',
     imageLink: './Art/lenjamin/snake.JPG',
