@@ -148,6 +148,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'tetris art',
+    pageLink: './Art/thomashewett/index.html',
+    imageLink: './Art/thomashewett/tetris.gif',
+    author: 'thomashewett',
+    githubLink: 'https://github.com/thomashewett'
+  },
+  {
     artName: 'Our Indian Flag',
     pageLink: './Art/aman/index.html',
     imageLink: './Art/aman/screenshot.jpg',
@@ -612,6 +619,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Elldrigar',
+    pageLink: './Art/Elldrigar/index.html',
+    imageLink: './Art/Elldrigar/art.png',
+    author: 'Artur Gawron',
+    githubLink: 'https://github.com/Elldrigar'
+  },
+  {
     artName: 'Black Hole',
     pageLink: './Art/nataliepina/index.html',
     imageLink: './Art/nataliepina/blackhole.png',
@@ -649,7 +663,7 @@ let cards = [
   {
     artName: 'HTML5CanvasAnimation',
     pageLink: './Art/diana/HTML5CanvasAnimation-main/index.html',
-    imageLink: './Art/diana/HTML5CanvasAnimation.PNG',
+    imageLink: './Art/diana/HTML5CanvasAnimation-main/HTML5CanvasAnimation.PNG',
     author: 'Diana Vilé',
     githubLink: 'https://github.com/dianavile'
   },
@@ -675,7 +689,70 @@ let cards = [
     githubLink: 'https://github.com/indremak'
   },
   {
-    artName: 'Atomic Structure',
+    artName: 'Snake Game',
+    pageLink: './Art/Jude/snakegame.html',
+    imageLink: './Art/Jude/images/snake.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
+  },
+  {
+    artName: 'Hacktoberfest Spots',
+    pageLink: './Art/Denice-S/index.html',
+    imageLink: './Art/Denice-S/denice-s.jpg',
+    author: 'Denice Soper',
+    githubLink: 'https://github.com/Denice-S'
+  },
+  {
+    artName: 'Spinning animation',
+    pageLink: './Art/dhenry/index.html',
+    imageLink: './Art/dhenry/screenshot.png',
+    author: 'Dalia',
+    githubLink: 'https://github.com/Krungleviciute'
+  },
+  {
+    artName: 'Colourful Ball Generator',
+    pageLink: './Art/khoaHyh/index.html',
+    imageLink: './Art/khoaHyh/screenshot_canvas.png',
+    author: 'khoaHyh',
+    githubLink: 'https://github.com/khoaHyh'
+  },
+  {
+    artName: 'Random Night Sky',
+    pageLink: './Art/twinkle/index.html',
+    imageLink: './Art/twinkle/random_night_sky.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'Sketch',
+    pageLink: './Art/Mitej-Madan/main.html',
+    imageLink: './Art/Mitej-Madan/Sketch.png',
+    author: 'Mitej Madan',
+    githubLink: 'https://github.com/mitej23'
+  },
+  {
+    artName: 'Atom',
+    pageLink: './Art/hieutrinh/atom.html',
+    imageLink: './Art/hieutrinh/atom.gif',
+    author: 'trinhminhhieu',
+    githubLink: 'https://github.com/trinhminhhieu'
+  },
+  {
+    artName: 'Owl Canvas',
+    pageLink: './Art/Aszmel/index.html',
+    imageLink: './Art/Aszmel/screen.png',
+    author: 'Aszmel',
+    githubLink: 'https://github.com/Aszmel'
+  },
+  {
+    artName: 'Animated Spiral',
+    pageLink: './Art/Valdas3/index.html',
+    imageLink: './Art/Valdas3/image.png',
+    author: 'Valdas3',
+    githubLink: 'https://github.com/Valdas3'
+  },
+  {
+	artName: 'Atomic Structure',
     pageLink: './Art/Karthikk/index.html',
     imageLink: './Art/Karthikk/atoms.png',
     author: 'Karthik K',
