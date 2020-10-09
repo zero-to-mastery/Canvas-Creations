@@ -568,6 +568,20 @@ let cards = [
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
   },
+   {
+    artName: 'Spring Tree',
+    pageLink: './Art/spring/index.html',
+    imageLink: './Art/spring/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Eyeball',
+    pageLink: './Art/taniyaHinduja/index.html',
+    imageLink: './Art/nightSky/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
