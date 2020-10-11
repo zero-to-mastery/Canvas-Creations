@@ -619,6 +619,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Collision Course',
+    pageLink: './Art/collision_course/index.html',
+    imageLink: './Art/collision_course/collision_course.gif',
+    author: 'Sanand',
+    githubLink: 'https://github.com/sanandmv7'
+  },
+  {
     artName: 'Elldrigar',
     pageLink: './Art/Elldrigar/index.html',
     imageLink: './Art/Elldrigar/art.png',
@@ -782,7 +789,7 @@ let cards = [
   {
     artName: 'Hacktoberfest 2020 Animation',
     pageLink: './Art/urilivshits/index.html',
-    imageLink: './Art/urilivshits/image.png',
+    imageLink: './Art/urilivshits/image.gif',
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
   },
@@ -799,6 +806,13 @@ let cards = [
     imageLink: './Art/CJHarriz/south-africa.png',
     author: 'Callum Harris',
     githubLink: 'https://github.com/CJHarriz'
+  },
+  {
+    artName: 'Spring Tree',
+    pageLink: './Art/spring/index.html',
+    imageLink: './Art/springy/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
   }
 ];
 

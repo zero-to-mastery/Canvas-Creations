@@ -1,9 +1,11 @@
 //----------------------- Defining the global variables
 canvas = document.getElementById("canvas");
 ctx = canvas.getContext("2d");
-
 width = canvas.width;
 height = canvas.height;
+let state = 0;
+let time = 1000;
+let offScreen = false;
 
 //----------------------- Dividing the Canvas into Blocks
 blockSize = 10;
@@ -256,6 +258,36 @@ class Element {
     };
 };
 
+//----------------------- checking if all the elements are outside of the screen
+offScreenChecker = () => {
+    filteredScreen = element["segments"].some((item) => {
+        return 0 <= item.col && item.col <= 80;
+    });
+    if (filteredScreen === false) {
+        offScreen = true;
+    }
+
+    //2nd way to check:
+        // filteredScreen = element["segments"].filter(item => {
+        //     return 0 <= item.col && item.col <= 80;
+        //   });
+        // if (filteredScreen.length === 0) {
+        //     console.log("empty");
+        // }
+
+    //3rd way to check:    
+        // return element["segments"].some((item) => {
+        //     return 0 <= item.col && item.col <= 80;
+        // });
+};
+
+//----------------------- checking if all the elements are back on their original positions
+placed = () => {
+    return element["segments"].reduce((acc, val) => {
+        return acc + val.row;
+    }, 0)
+};
+
 //----------------------- Explotion animation
 explode = () => {
     element["segments"].map(val => {
@@ -266,21 +298,54 @@ explode = () => {
     });
 };
 
+//----------------------- Implotion animation
+implode = () => {
+    time = 10;
+    for (let i = 0; i < element["segments"].length; i++) {
+        if (element["segments"][i].col < originalElement["segments"][i].col) {
+            element["segments"][i].col++; 
+        }
+        else if (element["segments"][i].col > originalElement["segments"][i].col) {
+            element["segments"][i].col--; 
+        }
+        else if (element["segments"][i].row < originalElement["segments"][i].row) {
+            element["segments"][i].row++; 
+        }
+        else if (element["segments"][i].row > originalElement["segments"][i].row) {
+            element["segments"][i].row--; 
+        } 
+    }
+
+};
+
 //----------------------- Starting the animation
-element = new Element();
-let state = 0;
+const element = new Element();
+const originalElement = JSON.parse(JSON.stringify(element));
+// below is me trying to clone and disconnect the object from the original one, so as to compare the cols and rows for the implode animation. None of them worked beside the one used above.
+    // const originalElement = element["segments"].map(val => val);
+    // const originalElement = []; 
+    // originalElement.push(element);
+    // const originalElement = {...obj};
+    // const clone = Object.assign({}, element);
+
 repeat = () => {
     ctx.clearRect(blockSize, blockSize, width-blockSize, height-blockSize);
-    element.draw();
-    explode();
     drawBorder();
-    state === 0 ? timeOutId = setTimeout(repeat, 150) : clearTimeout(timeOutId);
+    element.draw();
+    offScreenChecker();
+    if (offScreen === false) {
+        explode();
+    }
+    else if (offScreen === true) {
+        implode();
+    }
+    state === 0 ? timeOutId = setTimeout(repeat, time) : clearTimeout(timeOutId);
+    if (placed() === 6403) {
+        setTimeout(() => {state = 1}, 2000);
+    }
+    // console.log("element", element["segments"][0]);
+    // console.log("originalElement", originalElement["segments"][0]);
 };
 repeat();
 
-
-stateDelay = () => {
-    state = 1;
-}
-setTimeout(stateDelay, 3000);
-
+setTimeout(time = 100, 500);
