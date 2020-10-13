@@ -813,7 +813,15 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Hadoken!',
+    pageLink: './Art/dekisr/index.html',
+    imageLink: './Art/dekisr/hadoken.gif',
+    author: 'Deki',
+    githubLink: 'https://github.com/dekisr'
   }
+  
 ];
 
 // +--------------------------------------------------------------------------------+
