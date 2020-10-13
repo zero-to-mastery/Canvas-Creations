@@ -814,6 +814,13 @@ let cards = [
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
   }
+  {
+    artName: 'Moon',
+    pageLink: './Art/vitoriapena/index.html',
+    imageLink: './Art/vitoriapena/moon.gif',
+    author: 'Vitória Mendes',
+    githubLink: 'https://github.com/vitoriapena'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
