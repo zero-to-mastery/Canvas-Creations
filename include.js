@@ -911,6 +911,13 @@ let cards = [
     imageLink: './Art/Elliott/screenshot.png',
     author: 'Elliott',
     githubLink: 'https://github.com/elliottrapley'
+  },
+  {
+    artName: 'Rainbow-Circle',
+    pageLink: './Art/initialsky0/index.html',
+    imageLink: './Art/initialsky0/rainbow-circle.png',
+    author: 'Initialsky0',
+    githubLink: 'https://github.com/initialsky0'
   }
 ];
 
