@@ -808,6 +808,13 @@ let cards = [
     githubLink: 'https://github.com/urilivshits'
   },
   {
+    artName: 'Canvas Project',
+    pageLink: './Art/taepal467/index.html',
+    imageLink: './Art/taepal467/screen_shot',
+    author: 'Chantae P.',
+    githubLink: 'https://github.com/taepal467'
+  },
+  {
     artName: 'Donut Chart',
     pageLink: './Art/unclefifi/index.html',
     imageLink: './Art/unclefifi/art.png',
@@ -871,12 +878,33 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'ScatterDots',
+    pageLink: './Art/nartuom/index.html',
+    imageLink: './Art/nartuom/scatterDots.jpg',
+    author: 'Nartuom',
+    githubLink: 'https://github.com/nartuom'
+  },
+  {
+    artName: 'Fishy',
+    pageLink: './Art/IancuDan/index.html',
+    imageLink: './Art/IancuDan/fishy.png',
+    author: 'Iancu Dan',
+    githubLink: 'https://github.com/danIancuV'
+  },
+  {
+    artName: 'Doodle',
+    pageLink: './Art/rohitk/index.html',
+    imageLink: './Art/rohitk/Capture.png',
+    author: 'Rohit',
+    githubLink: 'https://github.com/rohitkadamrb'
+  },
+  {
     artName: 'A flower for you',
     pageLink: './Art/vishnup95/index.html',
     imageLink: './Art/vishnup95/Flower.png',
     author: 'vishnup95',
     githubLink: 'https://github.com/vishnup95'
-  }
+  },
   {
     artName: 'Moon',
     pageLink: './Art/vitoriapena/index.html',
@@ -885,11 +913,26 @@ let cards = [
     githubLink: 'https://github.com/vitoriapena'
   },
   {
+<<<<<<< HEAD
     artName: 'Happy Hacktoberfest!',
     pageLink: './Art/krdormer/index.html',
     imageLink: 'https://gph.is/g/aK7Mbnl',
     author: 'krdormer',
     githubLink: 'https://github.com/krdormer'
+=======
+    artName: 'Elliott',
+    pageLink: './Art/Elliott/index.html',
+    imageLink: './Art/Elliott/screenshot.png',
+    author: 'Elliott',
+    githubLink: 'https://github.com/elliottrapley'
+  },
+  {
+    artName: 'Smoke',
+    pageLink: './Art/Nagahshi/index.html',
+    imageLink: './Art/Nagahshi/smoke.gif',
+    author: 'Nagahshi',
+    githubLink: 'https://github.com/nagahshi'
+>>>>>>> 4d6204ded3476333114dee31cc80722f879e679c
   }
 ];
 
