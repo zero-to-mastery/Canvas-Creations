@@ -911,6 +911,13 @@ let cards = [
     imageLink: './Art/Elliott/screenshot.png',
     author: 'Elliott',
     githubLink: 'https://github.com/elliottrapley'
+  },
+  {
+    artName: 'Angel Lakra',
+    pageLink: './Art/Angel_Lakra/index.html',
+    imageLink: './Art/Angel_Lakra/random.jpg',
+    author: 'Angel Lakra',
+    githubLink: 'https://github.com/angel112'
   }
 ];
 
