@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'The Gate',
+    pageLink: './Art/chiatzuma/index.html',
+    imageLink: './Art/chiatzuma/screenshot.png',
+    author: 'chiatzuma',
+    githubLink: 'https://github.com/chiatzuma'
+  },
+  {
     artName: 'Pencil Canvas',
     pageLink: './Art/Giancarl021/index.html',
     imageLink: './Art/Giancarl021/screenshot.png',
