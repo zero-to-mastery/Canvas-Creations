@@ -883,6 +883,13 @@ let cards = [
     imageLink: './Art/vitoriapena/moon.gif',
     author: 'Vitória Mendes',
     githubLink: 'https://github.com/vitoriapena'
+  },
+  {
+    artName: 'Happy Hacktoberfest!',
+    pageLink: './Art/krdormer/index.html',
+    imageLink: 'https://gph.is/g/aK7Mbnl',
+    author: 'krdormer',
+    githubLink: 'https://github.com/krdormer'
   }
 ];
 
