@@ -803,9 +803,16 @@ let cards = [
   {
     artName: 'Hacktoberfest 2020 Animation',
     pageLink: './Art/urilivshits/index.html',
-    imageLink: './Art/urilivshits/image.png',
+    imageLink: './Art/urilivshits/image.gif',
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
+  },
+  {
+    artName: 'Canvas Project',
+    pageLink: './Art/taepal467/index.html',
+    imageLink: './Art/taepal467/screen_shot',
+    author: 'Chantae P.',
+    githubLink: 'https://github.com/taepal467'
   },
   {
     artName: 'Donut Chart',
@@ -871,11 +878,39 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Fishy',
+    pageLink: './Art/IancuDan/index.html',
+    imageLink: './Art/IancuDan/fishy.png',
+    author: 'Iancu Dan',
+    githubLink: 'https://github.com/danIancuV'
+  },
+  {
+    artName: 'Doodle',
+    pageLink: './Art/rohitk/index.html',
+    imageLink: './Art/rohitk/Capture.png',
+    author: 'Rohit',
+    githubLink: 'https://github.com/rohitkadamrb'
+  },
+  {
     artName: 'A flower for you',
     pageLink: './Art/vishnup95/index.html',
     imageLink: './Art/vishnup95/Flower.png',
     author: 'vishnup95',
     githubLink: 'https://github.com/vishnup95'
+  },
+  {
+    artName: 'Moon',
+    pageLink: './Art/vitoriapena/index.html',
+    imageLink: './Art/vitoriapena/moon.gif',
+    author: 'Vitória Mendes',
+    githubLink: 'https://github.com/vitoriapena'
+  },
+  {
+    artName: 'Elliott',
+    pageLink: './Art/Elliott/index.html',
+    imageLink: './Art/Elliott/screenshot.png',
+    author: 'Elliott',
+    githubLink: 'https://github.com/elliottrapley'
   }
 ];
 
