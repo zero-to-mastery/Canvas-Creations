@@ -981,6 +981,13 @@ let cards = [
     imageLink: './Art/Nagahshi/smoke.gif',
     author: 'Nagahshi',
     githubLink: 'https://github.com/nagahshi'
+  },
+  {
+    artName: 'Apex Legends',
+    pageLink: './Art/DDuplinszki/index.html',
+    imageLink: './Art/DDuplinszki/Apex Legends logo.png',
+    author: 'DDuplinszki',
+    githubLink: 'https://github.com/DDuplinszki'
   }
 ];
 
