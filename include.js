@@ -1072,6 +1072,13 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
+    artName: 'ztm-fancy-hacktober',
+    pageLink: './Art/Furuikeya/index.html',
+    imageLink: './Art/Furuikeya/ztm.jpg',
+    author: 'Furuikeya',
+    githubLink: 'https://github.com/Furuikeya'
   }
 ];
 
