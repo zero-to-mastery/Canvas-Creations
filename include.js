@@ -1191,7 +1191,14 @@ let cards = [
     imageLink: './Art/Furuikeya/ztm.png',
     author: 'Furuikeya',
     githubLink: 'https://github.com/Furuikeya'
-  }
+  },
+  {
+    artName: 'X Mark',
+    pageLink: './Art/krishnakanthati/index.html',
+    imageLink: './Art/krishnakanthati/xmark.png',
+    author: 'Krishna Kant Hati',
+    githubLink: 'https://github.com/krishnakanthati'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
