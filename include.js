@@ -1191,6 +1191,13 @@ let cards = [
     imageLink: './Art/Furuikeya/ztm.png',
     author: 'Furuikeya',
     githubLink: 'https://github.com/Furuikeya'
+  },
+  {
+    artName: 'partyCles',
+    pageLink: './Art/casiimir/index.html',
+    imageLink: './Art/casiimir/partyCles.gif',
+    author: 'casiimir',
+    githubLink: 'https://github.com/casiimir'
   }
 ];
 
