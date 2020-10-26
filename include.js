@@ -1079,7 +1079,7 @@ let cards = [
     imageLink: './Art/Norah/DesertVibes.png',
     author: 'Norah',
     githubLink: 'https://github.com/NorahJC'
-  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
