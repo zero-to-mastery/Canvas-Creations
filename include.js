@@ -1088,6 +1088,27 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
+    artName: 'Ambient Background',
+    pageLink: './Art/ambientBackground/index.html',
+    imageLink: './Art/ambientBackground/ambientBubble.png',
+    author: 'Ray-ez',
+    githubLink: 'https://github.com/RAY-EZ'
+  },
+  {
+    artName: 'Dutch flag',
+    pageLink: './Art/ijmdev/index.html',
+    imageLink: './Art/ijmdev/dutchflag.png',
+    author: 'Ijmdev',
+    githubLink: 'https://github.com/ijmdev'
+  },
+  {
+    artName: 'Listen to your heart',
+    pageLink: './Art/claire-wang/index.html',
+    imageLink: './Art/claire-wang/screenshot.png',
+    author: 'Claire Wang',
+    githubLink: 'http://github.com/jw20191n'
+  },
+  {
     artName: 'Analog Clock',
     pageLink: './Art/faiz_hameed/index.html',
     imageLink: './Art/faiz_hameed/clock.png',
@@ -1144,11 +1165,59 @@ let cards = [
     githubLink: 'https://github.com/Russell-Jeffrey'
   },
   {
-    artName: 'Indian Flat',
+    artName: 'Indian Flag',
     pageLink: './Art/dilmohan/index.html',
     imageLink: './Art/dilmohan/flag.png',
     author: 'Dilmohan Nidharak',
     githubLink: 'https://github.com/dilmohan11'
+  },
+  {
+    artName: 'Git The Matrix',
+    pageLink: './Art/mtsafe/index.html',
+    imageLink: './Art/mtsafe/Git-The-Matrix.gif',
+    author: 'Albir Tarsha',
+    githubLink: 'https://github.com/mtsafe'
+  },
+  {
+    artName: 'Brazil Flag',
+    pageLink: './Art/SantoroA/index.html',
+    imageLink: './Art/SantoroA/brazil-flag.jpg',
+    author: 'Aline Santoro',
+    githubLink: 'https://github.com/SantoroA'
+  },
+  {
+    artName: 'Circular Motion',
+    pageLink: './Art/Russell_Jeffrey/index.html',
+    imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
+    author: 'Russell Jeffrey',
+    githubLink: 'https://github.com/Russell-Jeffrey'
+  },
+  {
+    artName: 'Purple Hue',
+    pageLink: './Art/ThomasM/index.html',
+    imageLink: './Art/ThomasM/purple.jpg',
+    author: 'Thomas',
+    githubLink: 'https://github.com/Thomasm18'
+  },
+  {
+    artName: 'ztm-fancy-hacktober',
+    pageLink: './Art/Furuikeya/index.html',
+    imageLink: './Art/Furuikeya/ztm.png',
+    author: 'Furuikeya',
+    githubLink: 'https://github.com/Furuikeya'
+  },
+  {
+    artName: 'X Mark',
+    pageLink: './Art/krishnakanthati/index.html',
+    imageLink: './Art/krishnakanthati/xmark.png',
+    author: 'Krishna Kant Hati',
+    githubLink: 'https://github.com/krishnakanthati'
+  },
+  {
+    artName: 'KEXP logo',
+    pageLink: './Art/Pi/index.html',
+    imageLink: './Art/Pi/kexp-logo.png',
+    author: 'Pilar Mera',
   }
 ];
 
