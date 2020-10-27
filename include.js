@@ -1142,6 +1142,13 @@ let cards = [
     imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
     author: 'Russell Jeffrey',
     githubLink: 'https://github.com/Russell-Jeffrey'
+  },
+  {
+    artName: 'Indian Flat',
+    pageLink: './Art/dilmohan/index.html',
+    imageLink: './Art/dilmohan/flag.png',
+    author: 'Dilmohan Nidharak',
+    githubLink: 'https://github.com/dilmohan11'
   }
 ];
 
