@@ -1219,6 +1219,13 @@ let cards = [
     imageLink: './Art/Pi/kexp-logo.png',
     author: 'Pilar Mera',
     githubLink: 'https://github.com/decrecementofeliz'
+  },
+  {
+    artName: 'Tree Art',
+    pageLink: './Art/EyeOfAthena/index.html',
+    imageLink: './Art/EyeOfAthena/cover.png',
+    author: 'EyeOfAthena',
+    githubLink: 'https://github.com/EyeOfAthena'
   }
 ];
 
