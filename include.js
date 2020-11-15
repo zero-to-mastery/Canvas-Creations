@@ -1325,7 +1325,15 @@ let cards = [
     imageLink: './Art/ivioje/stylish-draw.png',
     author: 'Eboreime Rhoda Ivioje',
     githubLink: 'https://github.com/ivioje'
+  },
+  {
+    artName: 'Roob Cube',
+    pageLink: './Art/geebeetoo/index.html',
+    imageLink: './Art/geebeetoo/my_screenshot.png',
+    author: 'geebeetoo',
+    githubLink: 'https://github.com/geebeetoo'
   }
+
 ];
 
 // +--------------------------------------------------------------------------------+
