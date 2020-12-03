@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+	display: grid;
+	place-items: center;
+}
+
+canvas {
+	border: 2px solid #A15F47;
+}

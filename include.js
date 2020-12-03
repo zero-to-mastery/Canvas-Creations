@@ -1325,6 +1325,13 @@ let cards = [
     imageLink: './Art/ivioje/stylish-draw.png',
     author: 'Eboreime Rhoda Ivioje',
     githubLink: 'https://github.com/ivioje'
+  },
+  {
+    artName: 'Etel Adnan Canvas',
+    pageLink: './Art/acphil2/index.html',
+    imageLink: './Art/acphil2/eteladnancanvas.png',
+    author: 'acphil',
+    githubLink: 'https://github.com/acphil2'
   }
 ];
 
