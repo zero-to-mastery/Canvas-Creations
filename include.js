@@ -1339,7 +1339,15 @@ let cards = [
     imageLink: './Art/ashwin/Cool-pointer.png',
     author: 'Ajayraoch',
     githubLink: 'https://github.com/123ajayrao'
-  }
+  },
+
+    {
+      artName: 'replITT',
+      pageLink: './Art/morethadr/indexx.html',
+      imageLink: './Art/morethadr/img/768px-Repl.it_logo.svg.png',
+      author: 'morethandr',
+      githubLink: 'https://github.com/morebeautifulthandoriangray'
+    }
 ];
 
 // +--------------------------------------------------------------------------------+
