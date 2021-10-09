@@ -1347,7 +1347,14 @@ let cards = [
     imageLink: './Art/ashwin/Cool-pointer.png',
     author: 'Ajayraoch',
     githubLink: 'https://github.com/123ajayrao'
-  }
+  },
+  {
+    artName: 'Albanian Flag',
+    pageLink: './Art/Coku/index.html',
+    imageLink: './Art/Coku/screenshot.png',
+    author: 'Coku',
+    githubLink: 'https://github.com/MrCoku'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
